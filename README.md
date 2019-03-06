@@ -10,7 +10,7 @@
 
 ## Create Page
 
-![Screenshot](https://github.com/DhirajAswani/ProductManagementApp/blob/master/login3.png)
+![Screenshot](https://github.com/DhirajAswani/ProductManagementApp/blob/master/createproduct2.png)
 
 ## Edit Page
 
